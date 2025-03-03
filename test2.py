@@ -25,4 +25,4 @@ for index, temp_range in enumerate(temp_ranges):
 
 max_avg_temp_range = round(max_avg_temp_range, 1)
 
-print("기상 관측 이래, 대전의 최고 기온과 최저 기온 차의 평균이 가장 높은 달", max_avg_temp_range_date,"월로,", max_avg_temp_range, "도 였습니다.")
+print("기상 관측 이래, 대전의 최고 기온과 최저 기온 차의 평균이 가장 높은 달은", max_avg_temp_range_date, "월로,", max_avg_temp_range, "도 였습니다.")
